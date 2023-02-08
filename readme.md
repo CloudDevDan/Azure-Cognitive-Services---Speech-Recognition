@@ -1,0 +1,1 @@
+Please see my blog post: [Azure Cognitive Services - Speech Recognition](https://clouddevdan.co.uk/azure-cognitive-services-speech-recognition)
